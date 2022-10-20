@@ -26,6 +26,14 @@ p {
     margin-bottom: 90px;
 }
 
+.money{
+    font-size: 3rem;
+    color: #369;
+    margin-bottom: 0;
+    text-align: center;
+    margin-bottom: 90px;
+}
+
 .divisa{
     margin-top: 10%;
     width: 25%;
@@ -61,6 +69,6 @@ p {
     margin-bottom: 0;
     text-align: center;   
     padding-top: 50px;
-    position: relative;
+ 
     float: center;
 }
